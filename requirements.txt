@@ -1,0 +1,19 @@
+# Data processing
+pandas
+numpy
+
+# eBird and weather data
+requests
+
+# Environment
+python-dotenv
+
+# Notebooks
+jupyter
+
+# ML/Models
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn

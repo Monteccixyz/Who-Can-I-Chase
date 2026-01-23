@@ -6,4 +6,4 @@ data/raw/
 .idea/
 .env
 *.sqlite
-data/processed/
+data/processed/*.csv

@@ -1,4 +1,4 @@
-    """
+"""
 Prepare unique coordinates for Andalucía region.
 
 Loads eBird data, filters to Andalucía, rounds coordinates to 0.1 precision,

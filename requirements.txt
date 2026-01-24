@@ -17,3 +17,6 @@ scikit-learn
 # Visualization
 matplotlib
 seaborn
+
+xgboost
+joblib
